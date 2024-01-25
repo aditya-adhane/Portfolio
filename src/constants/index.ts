@@ -230,7 +230,7 @@ const projects: TProject[] = [
       },
     ],
     image: portfolio,
-    sourceCodeLink: "https://github.com/",
+    sourceCodeLink: "https://github.com/aditya-adhane/Portfolio",
   },
 ];
 
